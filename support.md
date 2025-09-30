@@ -1,150 +1,165 @@
-# Support for "Toilet: Find Nearby Restrooms"
+# Grave App Support & Help
 
-## 🚽 Welcome to Support!
+Welcome to Grave's support page! Here you'll find answers to common questions and ways to get help with our dating and social app.
 
-Thank you for using **"Toilet: Find Nearby Restrooms"**! This page provides help and information about the app.
+## Frequently Asked Questions (FAQ)
 
-## 📱 App Features
+### Getting Started
+**Q: How do I create an account?**
+A: Download Grave from the App Store and follow the registration process. You'll need to provide a valid email address, create a secure password, and set up your profile.
 
-### Core Functionality
-- **Find Nearby Restrooms**: Locate public toilets near your current location
-- **Interactive Map**: View restrooms on a map with ratings and details
-- **Real-time Information**: See opening hours, accessibility features, and user ratings
-- **Community-Driven**: Rate restrooms and suggest new locations
+**Q: Is Grave free to use?**
+A: Grave offers both free and premium features. Basic dating tracking and social features are free, with additional premium features available through in-app purchases.
 
-### Key Features
-- **Accessibility Information**: Wheelchair access, baby changing tables, pads & tampons
-- **Opening Hours**: Real-time status of restroom availability
-- **Free vs Paid**: Clear indication of costs
-- **Directions**: Get navigation to any restroom
-- **Anonymous Community**: Rate and contribute without creating accounts
+**Q: What devices are supported?**
+A: Grave is available for iOS devices running iOS 14.0 or later. We're working on Android support for future releases.
 
-## ❓ Frequently Asked Questions
+**Q: What is Grave and how does it work?**
+A: Grave is a social dating app that lets you track your dating experiences, share stories, and connect with others in the dating community. You can document dates, relationships, and dating milestones.
 
-### **How does the app work?**
-The app uses your device's location to find nearby public restrooms. It displays them on a map and in a list, showing ratings, features, and distance from your location.
+### Account & Profile
+**Q: How do I update my profile information?**
+A: Go to Settings > Profile to update your personal information, profile picture, bio, and dating preferences.
 
-### **Is my location data private?**
-Yes! We don't store your location permanently. Location data is only used to find nearby restrooms and is processed in real-time.
+**Q: How do I change my password?**
+A: Navigate to Settings > Security > Change Password to update your password. You can also use the "Forgot Password" feature on the login screen.
 
-### **How accurate is the restroom information?**
-We combine data from multiple sources:
-- OpenStreetMap (community-maintained)
-- Government databases
-- User contributions and ratings
-- Community suggestions
+**Q: Can I delete my account?**
+A: Yes, you can delete your account by going to Settings > Account > Delete Account. This will permanently remove your profile, dating history, and all associated data. This action is irreversible.
 
-### **Can I add a new restroom?**
-Yes! Tap the "+" button to add a new restroom location. You can rate it immediately to help other users.
+**Q: How do I update my dating status?**
+A: You can update your relationship status in your profile settings. This helps other users understand your current dating situation.
 
-### **How do I report incorrect information?**
-You can rate restrooms and suggest updates through the app. Community voting helps ensure accuracy.
+**Q: Can I make my profile private?**
+A: Yes, you can adjust your privacy settings in Settings > Privacy to control who can see your profile and dating information.
 
-### **Is the app free to use?**
-Yes, the app is completely free to download and use.
+### Dating Features
+**Q: How do I add a new date or relationship?**
+A: Use the "+" button on the main screen to add a new date entry. You can include details like the person's name, date, location, and your experience.
 
-### **Does the app work offline?**
-The app requires an internet connection to fetch restroom data and provide directions.
+**Q: Can I share my dating stories with friends?**
+A: Yes, you can share your dating experiences (with appropriate privacy settings) with other Grave users or export them to share outside the app.
 
-### **What areas are covered?**
-Currently focused on New York City and surrounding areas. We're expanding coverage based on user demand.
+**Q: How do I find other users on Grave?**
+A: You can discover other users through the social feed, search functionality, or by connecting with friends who also use Grave.
 
-## 🛠️ Troubleshooting
+**Q: Can I block or report other users?**
+A: Yes, you can block or report users through their profile or by contacting our support team. We take safety and harassment seriously.
 
-### **App won't find my location**
-- Check that Location Services are enabled in your device settings
-- Make sure you've granted location permission to the app
-- Try restarting the app
+### Technical Issues
+**Q: The app is crashing or not working properly. What should I do?**
+A: Try these troubleshooting steps:
+1. Close and restart Grave
+2. Restart your device
+3. Update to the latest version from the App Store
+4. Check your internet connection
+5. Clear the app's cache in Settings > Storage
+6. If the problem persists, contact our support team
 
-### **No restrooms showing nearby**
-- Try increasing the search radius
-- Check your internet connection
-- The area might not have public restrooms in our database yet
+**Q: I'm having trouble logging in. What can I do?**
+A: Make sure you're using the correct email and password. If you've forgotten your password, use the "Forgot Password" feature on the login screen. You can also try logging in with your Apple ID if you signed up that way.
 
-### **Map not loading**
-- Check your internet connection
-- Try closing and reopening the app
-- Make sure you have a stable connection
+**Q: The app is running slowly. How can I improve performance?**
+A: Try these steps:
+- Close other apps running in the background
+- Ensure you have a stable internet connection
+- Update to the latest version of Grave
+- Restart your device
+- Check available storage space on your device
 
-### **Directions not working**
-- The app tries to open Apple Maps or Google Maps
-- Make sure you have a maps app installed
-- Check that you have an internet connection
+### Privacy & Security
+**Q: How is my data protected?**
+A: We use industry-standard encryption and security measures to protect your data. All data is encrypted in transit and at rest. Please see our Privacy Policy for more details.
 
-## 📧 Contact Support
+**Q: Can I export my data?**
+A: Yes, you can request a copy of your data by contacting our support team. We'll provide your data in a machine-readable format within 30 days.
 
-**Email:** alexmatthewfong@gmail.com
+**Q: Who can see my dating information?**
+A: You control who can see your information through privacy settings. You can choose to keep your profile private, share with friends only, or make it public to the Grave community.
 
-**Response Time:** We aim to respond within 48 hours
+**Q: Can I delete specific dating entries?**
+A: Yes, you can delete individual dating entries or entire relationships from your profile at any time.
 
-**What to Include:**
-- Your device model and iOS version
-- A description of the issue
-- Steps to reproduce the problem
-- Screenshots if helpful
+**Q: Is my location data safe?**
+A: Location data is only collected with your explicit permission and is used to enhance your experience. You can disable location services in your device settings or app preferences.
 
-## 🔄 App Updates
+## Contact Support
 
-### Recent Updates
-- Added "Pads & Tampons" feature indicator
-- Improved restroom naming and descriptions
-- Enhanced community rating system
-- Better accessibility information
+### Email Support
+For technical issues, account problems, or general questions:
+- **Email**: support@graveapp.com
+- **Response Time**: We typically respond within 24-48 hours
+- **Business Hours**: Monday-Friday, 9 AM - 6 PM PST
 
-### Coming Soon
-- Expanded geographic coverage
-- Offline map support
-- Push notifications for nearby restrooms
-- Enhanced filtering options
+### Bug Reports
+If you've found a bug or issue with Grave:
+1. Describe the problem in detail
+2. Include steps to reproduce the issue
+3. Specify your device model, iOS version, and Grave app version
+4. Include screenshots if helpful
+5. Send to: bugs@graveapp.com
 
-## 📋 Privacy & Data
+### Feature Requests
+Have an idea for a new feature? We'd love to hear it!
+- **Email**: features@graveapp.com
+- Include a detailed description of your suggestion
+- Explain how it would improve your Grave experience
 
-### What We Collect
-- **Location**: Only your current location to find nearby restrooms
-- **Usage Data**: Anonymous app performance and feature usage
-- **Community Contributions**: Anonymous ratings and suggestions
+### Safety & Harassment Reports
+If you experience harassment or inappropriate behavior:
+- **Email**: safety@graveapp.com
+- **Response Time**: We prioritize safety reports and respond within 4 hours
+- Include screenshots and details of the incident
 
-### What We DON'T Collect
-- Personal information (names, emails, etc.)
-- Account data or login information
-- Permanent location history
-- Personal preferences that could identify you
+## Community
 
-### Data Security
-- All data transmission is encrypted
-- Location data is processed in real-time only
-- Community data is anonymous
-- We follow industry best practices for privacy
+### Social Media
+- **Twitter**: @GraveApp
+- **Instagram**: @graveapp
+- **TikTok**: @graveapp
 
-## 🌟 Community Guidelines
+### User Forums
+Join our community forum for discussions, dating tips, and user-generated content at community.graveapp.com
 
-### Rating Restrooms
-- Rate based on your actual experience
-- Be honest about accessibility features
-- Consider cleanliness, safety, and availability
+## App Information
 
-### Adding New Locations
-- Only add public restrooms
-- Provide accurate location information
-- Include helpful details about access and features
+- **Current Version**: 1.0.0
+- **Last Updated**: December 2024
+- **Minimum iOS Version**: iOS 14.0
+- **App Size**: ~50 MB
+- **Developer**: Grave Team
+- **Category**: Social Networking
 
-### Community Behavior
-- Be respectful in your contributions
-- Don't spam or abuse the system
-- Help maintain accurate information
+## Release Notes
 
-## 📱 System Requirements
+### Version 1.0.0 - December 2024
+- Initial release of Grave
+- Create and manage dating profiles
+- Track dating experiences and relationships
+- Social feed for sharing dating stories
+- Privacy controls and settings
+- User safety and reporting features
 
-- **iOS Version**: iOS 17.0 or later
-- **Device**: iPhone or iPad
-- **Internet**: Required for data and directions
-- **Location Services**: Required for core functionality
+---
 
-## 🏆 Thank You!
+## Still Need Help?
 
-Thank you for using "Toilet: Find Nearby Restrooms"! Your ratings and contributions help make the app better for everyone.
+If you couldn't find the answer to your question here, please don't hesitate to contact us:
 
-**Happy exploring!** 🚽✨
+- **Email**: support@graveapp.com
+- **Website**: https://graveapp.com
+- **Business Hours**: Monday-Friday, 9 AM - 6 PM PST
+- **Emergency Safety**: safety@graveapp.com (24/7 for safety issues)
+
+We're here to help and will do our best to respond to your inquiry as quickly as possible.
+
+## Terms of Service
+
+By using Grave, you agree to our Terms of Service. Please review our terms at https://graveapp.com/terms
+
+## Privacy Policy
+
+Your privacy is important to us. Please review our Privacy Policy at https://graveapp.com/privacy
 
 ---
 
